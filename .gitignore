@@ -1,0 +1,6 @@
+.venv
+.env
+.streamlit
+temp
+media
+__pycache__
